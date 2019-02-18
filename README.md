@@ -44,6 +44,12 @@ Explore Dataset Scale in CVPR2018
 
 * SUNCG dataset and  physically-based renderings provided by Zhang et al, over 400,000 rendered training images.
 
+### [Camera Pose Estimation With Unknown Principal Point](http://openaccess.thecvf.com/content_cvpr_2018/papers/Larsson_Camera_Pose_Estimation_CVPR_2018_paper.pdf)
+
+* Rotunda dataset, a new dataset with 4×62 = 248 images.
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Does not use deep learning`
+
 
 
 
